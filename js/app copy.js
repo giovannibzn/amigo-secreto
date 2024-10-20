@@ -11,7 +11,7 @@ function adicionar(){
         lista.textContent = lista.textContent +', '+ amigo.value;
     }
     amigo.value = '';
-}   
+}
 
 function sortear(){
     
