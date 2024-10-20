@@ -25,3 +25,4 @@ function sortear(){
 //ignorando um arquivo para nao subir todos .gitignore
 //se colocar dentro do arquivo /temp por ex vai ignorar uma pasta, pode ser um arquivo 
 //especifico como teste.txt e ate mesmo, todos os arquivos txt utulizando o *.txt
+//da pra utilizar o site gitigonore.io para mostrar como ignorar em cada tipo de linguagem
