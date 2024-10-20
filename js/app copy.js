@@ -11,8 +11,10 @@ function adicionar(){
         lista.textContent = lista.textContent +', '+ amigo.value;
     }
     amigo.value = '';
-}
+}   
 
 function sortear(){
     
 }
+
+//teste para ver sincronização
