@@ -22,3 +22,4 @@ function sortear(){
 //cancelamos o commit com reset com git reset --hard 'colando a antiga commit'
 //agora erramos no comentário utilizando git commit --amend -m "nova mensagem"
 //descobri que tem o VS code no github
+//ignorando um arquivo para nao subir todos .gitignore
