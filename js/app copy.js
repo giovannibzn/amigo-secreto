@@ -18,3 +18,4 @@ function sortear(){
 }
 
 //teste para ver sincronização
+//fazer dar conflito
