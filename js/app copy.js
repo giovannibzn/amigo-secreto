@@ -18,3 +18,5 @@ function sortear(){
 }
 
 //teste para ver sincronização
+//fazer dar conflito
+>>>>>>> f0e9981cfae5f2abad7472714509cae7c96b14e0
