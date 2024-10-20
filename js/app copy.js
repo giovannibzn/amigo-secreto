@@ -19,3 +19,5 @@ function sortear(){
 
 //teste para ver sincronização
 //fazer dar conflito
+//cancelamos o commit com reset 
+//agora erramos no comentário
