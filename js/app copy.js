@@ -16,3 +16,5 @@ function adicionar(){
 function sortear(){
     
 }
+
+//teste para ver sincronização
