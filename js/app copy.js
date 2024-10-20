@@ -23,3 +23,5 @@ function sortear(){
 //agora erramos no comentário utilizando git commit --amend -m "nova mensagem"
 //descobri que tem o VS code no github
 //ignorando um arquivo para nao subir todos .gitignore
+//se colocar dentro do arquivo /temp por ex vai ignorar uma pasta, pode ser um arquivo 
+//especifico como teste.txt e ate mesmo, todos os arquivos txt utulizando o *.txt
