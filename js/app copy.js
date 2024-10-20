@@ -19,5 +19,6 @@ function sortear(){
 
 //teste para ver sincronização
 //fazer dar conflito
-//cancelamos o commit com reset 
-//agora erramos no comentário
+//cancelamos o commit com reset com git reset --hard 'colando a antiga commit'
+//agora erramos no comentário utilizando git commit --amend -m "nova mensagem"
+//descobri que tem o VS code no github
